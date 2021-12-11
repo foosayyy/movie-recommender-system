@@ -29,12 +29,11 @@ The K-NN working can be explained on the basis of the below algorithm:
 -   **Step-6:**  Our model is ready.
 
 Suppose we have a new data point and we need to put it in the required category. Consider the below image:
-![K-Nearest Neighbor(KNN) Algorithm for Machine Learning](https://static.javatpoint.com/tutorial/machine-learning/images/k-nearest-neighbor-algorithm-for-machine-learning3.png)
+![k-nearest-neighbor-algorithm-for-machine-learning5.jpg](https://github.com/foosayyy/movie-recommender-system/blob/main/README/k-nearest-neighbor-algorithm-for-machine-learning5.jpg?raw=true)
 - We will calculate the  **Euclidean distance**  between the data points. The Euclidean distance is the distance between two points, which we have already studied in geometry. It can be calculated as:
-![K-Nearest Neighbor(KNN) Algorithm for Machine Learning](https://static.javatpoint.com/tutorial/machine-learning/images/k-nearest-neighbor-algorithm-for-machine-learning4.png)
+![k-nearest-neighbor-algorithm-for-machine-learning4.jpg](https://github.com/foosayyy/movie-recommender-system/blob/main/README/k-nearest-neighbor-algorithm-for-machine-learning4.jpg?raw=true)
 -   By calculating the Euclidean distance we got the nearest neighbors, as three nearest neighbors in category A and two nearest neighbors in category B. Consider the below image:
-![K-Nearest Neighbor(KNN) Algorithm for Machine Learning](https://static.javatpoint.com/tutorial/machine-learning/images/k-nearest-neighbor-algorithm-for-machine-learning5.png)
--   As we can see the 3 nearest neighbors are from category A, hence this new data point must belong to category A.
+![k-nearest-neighbor-algorithm-for-machine-learning3.jpg](https://github.com/foosayyy/movie-recommender-system/blob/main/README/k-nearest-neighbor-algorithm-for-machine-learning3.jpg?raw=true)-   As we can see the 3 nearest neighbors are from category A, hence this new data point must belong to category A.
 
 ## Advantages of KNN Algorithm
 
